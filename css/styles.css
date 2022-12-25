@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Harmattan', sans-serif;
+  background-color: white;
+  color: #40514E;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Homemade Apple', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #82C3EC;
+}
+
+h2 {
+  font-family: 'Zeyada', cursive;
+  font-size: 2.5rem;
+  color: #82C3EC;
+}
+
+h3 {
+  font-family: 'Zeyada', cursive;
+  color: #82C3EC;
+}
+hr{
+  width:2%;
+  color: #BFEAF5;
+  border: 5px dotted;
+  border-style: none none dotted;
+}
+
+.top-container {
+  background-color: #BFEAF5;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+table {
+  border-spacing: 10px;
+}
+.middle-container{
+  padding-top:100px;
+}
+.ketkidp{
+  width: 200px;
+  border-radius: 50%;
+}
+.mera-skill{
+  margin: auto 400px auto 400px;
+}
+.ml{
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 50px;
+}
+.web-dev{
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+p{
+  line-height: 2;
+}
+.btn {
+  background: #82C3EC;
+  background-image: -webkit-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -moz-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -ms-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -o-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: linear-gradient(to bottom, #BFEAF5, #82C3EC);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Harmattan;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #82C3EC;
+  background-image: -webkit-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -moz-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -ms-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: -o-linear-gradient(top, #BFEAF5, #82C3EC);
+  background-image: linear-gradient(to bottom, #BFEAF5, #82C3EC);
+  text-decoration: none;
+}
+.contact-me{
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #BFEAF5;
+  padding: 50px 0 20px;
+}
+a{
+  color: #82C3EC;
+  font-family: 'Harmattan', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #2C74B3;
+}
+.cp{
+  color: #82C3EC;
+}
+.line{
+  color: #82C3EC;
+}
